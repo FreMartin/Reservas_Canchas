@@ -1,0 +1,13 @@
+.carousel-item{
+    max-height: 600px;
+   
+}
+
+img{
+    border-radius: 7px;
+}
+
+.card{
+    height: 450px;
+}
+
